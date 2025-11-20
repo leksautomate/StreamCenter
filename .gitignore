@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+__pycache__/
+venv/
+env/
+
+# Media Files (Large)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+videos/
+
+# Environment Variables
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Build
+frontend/dist/
